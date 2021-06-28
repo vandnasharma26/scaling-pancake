@@ -38,4 +38,4 @@ Use this section to recap over some of your major learnings while working throug
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@vandna sharma](https://www.frontendmentor.io/profile/vandnasharma26)
